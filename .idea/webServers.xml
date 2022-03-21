@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cdd0ae8b-8978-4a13-aa91-5f62522eaad7" name="sorare-back">
+        <fileTransfer rootFolder="/var/www/sorare-back" accessType="SFTP" host="51.178.83.217" port="2241" sshConfigId="91a68cae-a42c-40c1-9102-6c92a5842682" sshConfig="guiguil81@51.178.83.217:2241 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
